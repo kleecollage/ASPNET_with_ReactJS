@@ -41,7 +41,7 @@ const App = () => {
                 <tbody>
                     {
                         empleado.map((item) => (
-                            <tr>
+                            <tr key={item.idEmpleado}>
                                 <td>{item.nombre}</td>
                                 <td>{item.correo}</td>
                                 <td>{item.direccion}</td>
