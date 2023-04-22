@@ -1,6 +1,5 @@
 # ASPNET_with_ReactJS
 
-
  <h3>Un programa para probar las funcionalidades integradas de ReactJS a ASP.NET <br/><br/>
 
  Se prueba el uso de componentes con props y destructuring;<br/>
@@ -9,3 +8,7 @@
 
 Para la API se utiliza el siguiente comando se usa en la consola de administrador de paquetes:
 "Scaffold-DbContext "Server=localhost;Database=Core_React_Test;User ID=covidio;Password=1234;Encrypt=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models" </h3>
+
+<p align=center>
+ <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" autoplay loop>
+ </p>
